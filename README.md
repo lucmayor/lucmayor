@@ -1,1 +1,1 @@
-![](https://github.com/lucmayor/lucmayor/blob/main/1LeD572.gif)
+![](https://github.com/lucmayor/lucmayor/blob/main/1LeD572.gif?raw=true)
