@@ -1,10 +1,6 @@
 hi! i'm luc. 4th year swe @ university of manitoba.
 
-working on:
-
-  \- coursework: ECE3610, ECE3740, COMP2160, [...]
-  
-  \- [osu!scrobbler](https://github.com/lucmayor/osu-scrobbler): a lightweight osu! to last.fm 'scrobbler'
+working on: things
 
 currently listening to:
 
