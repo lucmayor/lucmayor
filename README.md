@@ -1,4 +1,4 @@
-hi! i'm luc. 4th year swe @ university of manitoba.
+hi! i'm luc. [??]th year swe @ university of manitoba.
 
 working on: things
 
