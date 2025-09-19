@@ -7,13 +7,13 @@
   <br></br>
   <b>working on:</b>
   <br>
-  payload team @ <a href="https://www.umsats.ca/">umsats</a>
-  <br>
   creative @ <a href="https://github.com/staydownmoneycrew">staydown</a>
   <br>
-  <a href="https://github.com/lucmayor/shinebot">shinebot</a> / always-on / umfm-scrobbler
+  <a href="https://github.com/lucmayor/shinebot">shinebot</a> / always-on / alfm
   <br></br>
   <b>previously:</b>
+  <br>
+  payload team @ <a href="https://www.umsats.ca/">umsats</a>
   <br>
   ghm team member @ <a href="https://uofmbmed.com/">umbmed</a>
   <br></br>
