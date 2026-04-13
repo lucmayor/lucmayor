@@ -1,4 +1,4 @@
-<samp>🔧 hello people of the internet, welcome to my github !!!</samp>
+<samp>🔧 my name is luc, welcome to my github !!!</samp>
 <br></br>
 <samp>
   <b>status:</b>
